@@ -1,4 +1,4 @@
-# MyNodeApp
+# CoolNodeApp
 
 Deploying  a NodeJS app to Heroku from Github
 
